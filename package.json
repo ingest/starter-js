@@ -1,0 +1,9 @@
+{
+  "name": "starter-js",
+  "version": "0.0.1",
+  "description": "Example Starter Application in Vanilla JS",
+  "license": "MIT",
+  "dependencies": {
+    "@ingest/ingest-js-sdk": "^2.3.1"
+  }
+}
